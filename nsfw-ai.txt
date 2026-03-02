@@ -2,7 +2,8 @@
 # Description: An adult-focused AI chatbot blocklist to keep children safe online.
 # Homepage: https://github.com/firewalla/fw-public-lists
 # License: https://github.com/firewalla/fw-public-lists/blob/main/LICENSE
-# 
+#
+# Original Author: jieyuan666 
 aiallure.com
 aichattings.com
 aidungeon.com
@@ -90,3 +91,4 @@ xme.bio
 xotic.ai
 yodayo.com
 yollo.ai
+baidu.com
